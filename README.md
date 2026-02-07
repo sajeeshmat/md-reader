@@ -7,7 +7,7 @@ Support page for MD Reader - Markdown Viewer for macOS
   ## Contact
 
   For support, feedback, or feature requests:
-  📧 **your-email@example.com**
+  📧 **mdreader.app@gmail.com**
 
   ## Features
 
