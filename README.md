@@ -24,6 +24,17 @@ Support page for MD Reader - Markdown Viewer for macOS
   **How do I change themes?**
   Use the theme picker in the toolbar.
 
+  ## Privacy Policy
+
+  **MD Reader** does not collect, store, or transmit any personal data.
+
+  - No analytics
+  - No tracking
+  - No user accounts
+  - All files are processed locally on your device
+
+  Last updated: February 2026
+
   ---
 
   [Download on Mac App Store](#) *(link coming soon)*
