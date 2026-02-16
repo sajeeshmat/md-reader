@@ -1,13 +1,13 @@
-# md-reader
+# MDView
 Support page for MD Reader - Markdown Viewer for macOS 
-  # MD Reader Support
+  # MDView Support
 
   A fast, beautiful markdown viewer for macOS.
 
   ## Contact
 
   For support, feedback, or feature requests:
-  📧 **mdreader.app@gmail.com**
+  📧 **mdview.app@gmail.com**
 
   ## Features
 
@@ -26,7 +26,7 @@ Support page for MD Reader - Markdown Viewer for macOS
 
   ## Privacy Policy
 
-  **MD Reader** does not collect, store, or transmit any personal data.
+  **MDView** does not collect, store, or transmit any personal data.
 
   - No analytics
   - No tracking
